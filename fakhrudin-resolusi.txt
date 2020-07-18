@@ -1,0 +1,5 @@
+Halo eyzar saya bapakmu saya ingin membantumu untuk membuat website bosanakujual (BAJ).
+
+Resolusi saya :
+- Membuat website menggunakan framework javascript
+- Berkeja di start-up
